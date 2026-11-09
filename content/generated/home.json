@@ -1,0 +1,188 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "MAHANAKHON RACING Wiki & Guide 2026: Official Guide (Roblox)",
+  "description": "Use this MAHANAKHON RACING Roblox hub for verified game facts, starter guidance, controls, customization, vehicles, codes, gamepasses, and key links. Read more.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "MAHANAKHON RACING Wiki & Guide",
+    "heading": "MAHANAKHON RACING Wiki and Guide",
+    "lead": "MAHANAKHON RACING is a Roblox motorcycle driving experience where you spawn, customize, and ride bikes across the game world. Start by pressing G to spawn your motorcycle, walk to it, press E to mount, R to start the engine, K to retract the kickstand, and W to accelerate. This guide covers essential controls, startup mechanics, customization access, and verification links for new players.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/104549080643413"
+    }
+  },
+  "sections": [
+    {
+      "id": "mahanakhon-racing-roblox-motorcycle-experience",
+      "heading": "MAHANAKHON RACING: Roblox Motorcycle Experience",
+      "intro": "MAHANAKHON RACING is a Roblox motorcycle driving experience that lets you spawn, customize, and ride bikes across the game world. The core gameplay loop revolves around spawning your motorcycle, mounting it, starting the engine, and riding freely. Whether you're exploring the map, performing stunts, or simply enjoying the driving mechanics, the game provides a straightforward control system designed for both new and experienced players.",
+      "paragraphs": [
+        "The experience is built around accessible motorcycle controls and a clear progression from spawn to first ride. Once you understand the five-step startup sequence and master the basic movement keys, you can focus on exploring the game's customization options, communication features, and navigation tools. The game emphasizes hands-on learning—each control serves a practical purpose, from engine management to road communication.",
+        "New players should start by familiarizing themselves with the startup sequence and basic controls before exploring advanced features like customization zones, lighting effects, and camera modes. The straightforward design means you can be riding within seconds of joining, but there's depth available for players who want to master wheelies, practice braking techniques, or personalize their motorcycle's appearance. Links to verified beginner guides, full control references, and customization walkthroughs are available throughout this wiki to help you get the most from your time in MAHANAKHON RACING."
+      ],
+      "table": {
+        "caption": "MAHANAKHON RACING Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn MAHANAKHON RACING core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "five-step-motorcycle-startup-and-basic-riding",
+      "heading": "Five-Step Motorcycle Startup and Basic Riding",
+      "intro": "Press G to spawn your motorcycle into the game world. Walk to the spawned bike and press E to mount it. Once seated, press R to start the engine, then press K to retract the kickstand. Finally, press W to accelerate and begin riding. This five-step sequence is required every time you spawn a new motorcycle.",
+      "paragraphs": [
+        "After pressing W to accelerate, steer with A and D keys for left and right turns. Press S or Shift to brake; holding S while stopped engages reverse. Press Space to dismount when you want to leave the motorcycle. The startup steps must be completed in order—attempting to accelerate before retracting the kickstand or starting the engine will not move the bike."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current MAHANAKHON RACING Requirements",
+          "description": "Review the active mechanics and prerequisites inside MAHANAKHON RACING before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official MAHANAKHON RACING patch notes whenever a new update drops."
+        }
+      ]
+    },
+    {
+      "id": "riding-controls-acceleration-braking-and-steering",
+      "heading": "Riding Controls: Acceleration, Braking, and Steering",
+      "intro": "Press W to accelerate your motorcycle forward. Press S to brake; if you hold S while stationary, the motorcycle will reverse. You can also brake by pressing Shift. Steer left or right with A and D respectively.",
+      "paragraphs": [
+        "Hold Ctrl to perform a wheelie. Press Q to crouch into a riding tuck for a lower profile. When you want to dismount, press Space to leave the motorcycle."
+      ]
+    },
+    {
+      "id": "lighting-horn-and-road-communication-features",
+      "heading": "Lighting, Horn, and Road Communication Features",
+      "intro": "MAHANAKHON RACING provides turn signals, hazard lights, a horn, and custom lighting to communicate with other riders and personalize your bike's appearance. Press Z to activate your left turn signal or C for the right signal when changing lanes or preparing to turn. Press X to toggle hazard lights, useful when stopped or moving slowly on the road. Press H to sound your horn, alerting nearby players or adding emphasis during group rides.",
+      "paragraphs": [
+        "Press L to toggle custom lighting, which activates any decorative or accent lights installed on your motorcycle. Custom lighting does not affect turn signals or hazards; it is purely for visual style. Use turn signals and hazards to signal your intentions clearly, especially in multiplayer traffic, and reserve the horn for quick alerts rather than continuous use."
+      ]
+    },
+    {
+      "id": "camera-phone-customization-and-storage-controls",
+      "heading": "Camera, Phone, Customization, and Storage Controls",
+      "intro": "Beyond basic riding, MAHANAKHON RACING offers several utility and customization controls to enhance your experience. Press V to switch between different camera angles while riding, giving you better visibility or a preferred perspective. Press M to activate your mirror, useful for checking behind you without turning your head. These view options help you navigate and respond to traffic more effectively.",
+      "paragraphs": [
+        "Access your phone interface by pressing F. This opens your in-game phone menu, which handles communication, navigation, and other player functions. Customizing your motorcycle is central to the experience—navigate to any customization point in the game world and press P to enter the customization menu. Here you can modify your bike's appearance and performance to match your playstyle.",
+        "For fast travel, press N to open the warp menu and jump to different locations on the map without riding. When you're ready to store your motorcycle, hold down J to trigger the storage command. This safely parks your bike and frees you to explore on foot or spawn a fresh bike later. Finally, press Y to activate free camera mode, allowing you to capture screenshots or explore the environment from any angle without your motorcycle."
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore MAHANAKHON RACING Guides & Resources",
+      "intro": "Browse our dedicated MAHANAKHON RACING guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "MAHANAKHON RACING Codes",
+          "slug": "codes",
+          "description": "Check MAHANAKHON RACING codes, review each status, follow the current redemption steps, troubleshoot invalid entries, and find reliable update sources."
+        },
+        {
+          "label": "MAHANAKHON RACING Maps",
+          "slug": "maps",
+          "description": "Explore the MAHANAKHON RACING maps guide for verified locations, map access, route orientation, navigation tips, and practical help for new Roblox riders."
+        },
+        {
+          "label": "MAHANAKHON RACING Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Follow this MAHANAKHON RACING beginner guide to start your first ride, learn controls, choose goals, handle jobs and upgrades, and avoid common mistakes."
+        },
+        {
+          "label": "MAHANAKHON RACING Controls",
+          "slug": "controls",
+          "description": "Use this MAHANAKHON RACING controls guide to check startup, movement, rider posture, cameras, signals, utility keys, settings, and common input fixes."
+        },
+        {
+          "label": "MAHANAKHON RACING Customization",
+          "slug": "customization",
+          "description": "Learn how MAHANAKHON RACING customization works, where to look for customization access, how inputs differ from lights, and how to review your build. Read more."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do you play MAHANAKHON RACING on Roblox?",
+      "answer": "Press G to spawn your motorcycle, then walk to it and press E to mount. Press R to start the engine, K to retract the kickstand, and W to accelerate. Use A and D to steer left and right, S or Shift to brake, and Space to dismount. The game is a free-to-play Roblox experience focused on motorcycle customization and riding."
+    },
+    {
+      "question": "What controls should I learn first in MAHANAKHON RACING?",
+      "answer": "Start with W (accelerate), S or Shift (brake), A and D (steer), and Space (dismount). These five controls handle 90% of basic riding. Once comfortable, add Q for crouching, Ctrl for wheelies, Z and C for turn signals, and H for the horn. V switches camera angles for different riding perspectives."
+    },
+    {
+      "question": "How do I access customization and other features in MAHANAKHON RACING?",
+      "answer": "Press P at designated customization points to modify your motorcycle. Press M to view mirrors, F to access your phone, N to use warp navigation, and J (hold) to store your motorcycle. Press L for custom lighting effects and V to change your camera view during rides."
+    },
+    {
+      "question": "Where can I find verified MAHANAKHON RACING codes?",
+      "answer": "Check the official MAHANAKHON RACING Roblox game page for the latest active codes. A dedicated codes page lists verified rewards and redemption instructions. Always verify codes from official sources before attempting to redeem them."
+    },
+    {
+      "question": "What is the code mentioned in the official MAHANAKHON RACING description?",
+      "answer": "MAHANAKHON is referenced in the official game description. Always redeem codes at the official in-game redemption interface and verify them through the official Roblox listing to ensure they are currently active."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/104549080643413",
+      "title": "MAHANAKHON RACING",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://mahanakhonracing.wiki/",
+      "title": "MAHANAKHON RACING",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://mahanakhon-racing.wiki/",
+      "title": "MAHANAKHON RACING",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.roblox.com/games/104549080643413",
+      "title": "MAHANAKHON RACING Official Mechanics & Early-Bird Reference",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-09"
+}
